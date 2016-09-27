@@ -1,3 +1,5 @@
 include simhash/simhash.cpp
+include simhash/simhash.pyx
+include simhash/simhash.pxd
 include simhash/simhash-cpp/src/*
 include simhash/simhash-cpp/include/*
